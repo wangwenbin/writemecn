@@ -1,6 +1,6 @@
 <html>
 <head>
-i love apk!
+<title>writeme</title>
 </head>
 <body>
 <?php
@@ -8,9 +8,9 @@ echo 'Hello, world!';
 echo '<br/>';
 echo 'This is writeme on gae, thanks for Google!';
 echo '<br/>';
-echo '<a herf="deefi.com">deefi.com</a>';
+echo '<a href="http://www.writeme.cn">writeme.cn</a>';
 echo '<br/>';
 ?>
-<a herf="deefi.com">deefi.com</a>
+<p>html<a href="http://www.writeme.cn">writeme.cn</a></p> 
 </body>
 </html>
